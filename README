@@ -75,8 +75,9 @@ Select :
 *This adds it to the user file : ~/.config/htop/htoprc*
 
 *Delete this file as needed to test and rerun a clean configuration.*
-
-
+### KNOWN SO FAR ,TO ONLY WORK ON x86 or x86_64
+### For something on arm try: 
+https://github.com/avafinger/htop-2.1.1_enhanced-version
 #### Debian/Raspbian Build Notes:
 ``
 apt-get install dh-autoreconf libncursesw. 
