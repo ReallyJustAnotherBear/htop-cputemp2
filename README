@@ -80,7 +80,8 @@ Select :
 ### KNOWN SO FAR ,TO ONLY WORK ON x86 or x86_64
 ### For something on arm try avafingers enhanced version. On the rpi it does temp/cpufreq.
 https://github.com/avafinger/htop-2.1.1_enhanced-version
-### If you need something with GPU temp, avafinger has  it in the latest
+
+### If you need something with GPU temp, avafinger has  it in the latest that I tried with x86_64 and nvidia it works, did not work on my rpi
 https://github.com/avafinger/htop_2.2.2
 
 
