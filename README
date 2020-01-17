@@ -56,7 +56,10 @@ inside `htop`) for a list of supported key commands.
 
 If not all keys work check your curses configuration.
 
-##
+#### Adding temp sensors
+
+![htop-cputemp](/htop-cputemp.png)
+
 Select :
 	“f2 key”,
 	 “right arrow key” 3 times
