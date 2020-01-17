@@ -85,6 +85,10 @@ https://github.com/avafinger/htop-2.1.1_enhanced-version
 https://github.com/avafinger/htop_2.2.2
 
 
+#### Alternate version for rpi from arch user repo, i didnt try yet
+https://aur.archlinux.org/packages/htop-temperature-rpi/
+
+
 #### Debian/Raspbian Build Notes:
 ``
 apt-get install dh-autoreconf libncursesw. 
