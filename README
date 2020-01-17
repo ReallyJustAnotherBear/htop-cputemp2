@@ -60,7 +60,8 @@ inside `htop`) for a list of supported key commands.
 
 If not all keys work check your curses configuration.
 
-#### Adding temp sensors
+#### Added temp sensors patch from:
+https://aur.archlinux.org/cgit/aur.git/plain/htop-temperature.patch?h=htop-temperature 
 
 ![htop-cputemp](/htop-cputemp.png)
 
