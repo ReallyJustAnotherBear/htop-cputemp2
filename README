@@ -71,8 +71,9 @@ Select :
 		  Choose “enter” to place it in the right column under “uptime” or use
 		  the arrow keys to relocted and then press enter where you like. 
 
-*This adds it to the user file : ~/.config/htop/htoprc
-*Delete this file as needed to test and rerun a clean configuration.
+*This adds it to the user file : ~/.config/htop/htoprc*
+
+*Delete this file as needed to test and rerun a clean configuration.*
 
 
 
