@@ -77,9 +77,14 @@ Select :
 *Delete this file as needed to test and rerun a clean configuration.*
 
 
-
-
-
+#### Debian/Raspbian Build Notes:
+``
+apt-get install dh-autoreconf libncursesw. 
+``
+##Runtime Debian Dep
+``
+apt-get install lm-sensors
+``
 ## License
 
 GNU General Public License, version 2 (GPL-2.0)
