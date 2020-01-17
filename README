@@ -89,6 +89,8 @@ https://github.com/avafinger/htop_2.2.2
 https://aur.archlinux.org/packages/htop-temperature-rpi/
 
 
+#### Armbian already has this built in, which was so interesting to me, I wanted to spread the knowledge around some more.
+
 #### Debian/Raspbian Build Notes:
 ``
 apt-get install dh-autoreconf libncursesw. 
