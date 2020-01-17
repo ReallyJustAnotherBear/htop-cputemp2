@@ -61,6 +61,8 @@ inside `htop`) for a list of supported key commands.
 If not all keys work check your curses configuration.
 
 #### Added temp sensors patch from:
+https://aur.archlinux.org/packages/htop-temperature/
+### Patch
 https://aur.archlinux.org/cgit/aur.git/plain/htop-temperature.patch?h=htop-temperature 
 
 ![htop-cputemp](/htop-cputemp.png)
@@ -76,8 +78,12 @@ Select :
 
 *Delete this file as needed to test and rerun a clean configuration.*
 ### KNOWN SO FAR ,TO ONLY WORK ON x86 or x86_64
-### For something on arm try: 
+### For something on arm try avafingers enhanced version. On the rpi it does temp/cpufreq.
 https://github.com/avafinger/htop-2.1.1_enhanced-version
+### If you need something with GPU temp, avafinger has  it in the latest
+https://github.com/avafinger/htop_2.2.2
+
+
 #### Debian/Raspbian Build Notes:
 ``
 apt-get install dh-autoreconf libncursesw. 
