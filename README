@@ -67,9 +67,9 @@ If not all keys work check your curses configuration.
 Select :
 		 “f2 key”,
 		 “right arrow key” 3 times,
-		 “down arrow 6 key” times to “Temperature Sensors”,
-		  Choose “enter” to place it in the right column under “uptime” or use
-		  the arrow keys to relocted and then press enter where you like. 
+		 “down arrow key” 6 times to “Temperature Sensors”,
+		  Choose "enter" to place it in the right column under (uptime) or use
+		  the arrow keys to relocte and then press enter where you like. 
 
 *This adds it to the user file : ~/.config/htop/htoprc*
 
