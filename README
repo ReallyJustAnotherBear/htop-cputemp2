@@ -60,6 +60,10 @@ inside `htop`) for a list of supported key commands.
 
 If not all keys work check your curses configuration.
 
+---
+---
+
+### THis fork, Updated info 
 #### Added temp sensors patch from:
 https://aur.archlinux.org/packages/htop-temperature/
 ### Patch
